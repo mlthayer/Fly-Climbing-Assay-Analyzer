@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this software or teaching module, please cite it."
+title: "Fly Climbing Assay Analyzer"
+authors:
+  - family-names: "Thayer"
+    given-names: "Michelle"
+version: "1.0.0"
+date-released: "2026-07-09"
+license: "MIT"
+keywords:
+  - Drosophila
+  - negative geotaxis
+  - undergraduate laboratory
+  - behavioral phenotyping
+  - CURE

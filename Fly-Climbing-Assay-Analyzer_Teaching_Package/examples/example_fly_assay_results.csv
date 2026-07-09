@@ -1,0 +1,13 @@
+VideoFile,Genotype,Sex,Treatment,Replicate,Trial,Vial,CountAbove5cm,TotalFlies,PercentClimbed,RotationDegrees,FlipHorizontal,FlipVertical,LineY_Normalized,VialBoxes_Normalized
+Assay_A.mp4,Control,Female,Air,FS1,1,1,20,25,80,0,FALSE,FALSE,0.45,0.05|0.17
+Assay_A.mp4,Control,Female,Air,FS1,1,2,16,24,66.67,0,FALSE,FALSE,0.45,0.18|0.30
+Assay_A.mp4,Control,Female,Air,FS1,1,3,18,26,69.23,0,FALSE,FALSE,0.45,0.31|0.43
+Assay_A.mp4,Control,Female,Air,FS1,1,4,14,23,60.87,0,FALSE,FALSE,0.45,0.44|0.56
+Assay_A.mp4,Control,Female,Air,FS1,1,5,17,25,68,0,FALSE,FALSE,0.45,0.57|0.69
+Assay_A.mp4,Control,Female,Air,FS1,1,6,15,24,62.5,0,FALSE,FALSE,0.45,0.70|0.82
+Assay_B.mp4,Treated,Female,CO2,FS1,1,1,12,25,48,0,FALSE,FALSE,0.45,0.05|0.17
+Assay_B.mp4,Treated,Female,CO2,FS1,1,2,10,24,41.67,0,FALSE,FALSE,0.45,0.18|0.30
+Assay_B.mp4,Treated,Female,CO2,FS1,1,3,11,26,42.31,0,FALSE,FALSE,0.45,0.31|0.43
+Assay_B.mp4,Treated,Female,CO2,FS1,1,4,9,23,39.13,0,FALSE,FALSE,0.45,0.44|0.56
+Assay_B.mp4,Treated,Female,CO2,FS1,1,5,10,25,40,0,FALSE,FALSE,0.45,0.57|0.69
+Assay_B.mp4,Treated,Female,CO2,FS1,1,6,8,24,33.33,0,FALSE,FALSE,0.45,0.70|0.82
