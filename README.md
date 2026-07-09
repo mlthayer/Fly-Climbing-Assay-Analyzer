@@ -1,4 +1,5 @@
 # Fly Climbing Assay Analyzer
+[![DOI](https://zenodo.org/badge/1295392899.svg)](https://doi.org/10.5281/zenodo.21281685)
 
 **Fly Climbing Assay Analyzer** is a browser-based tool for standardized manual scoring of *Drosophila melanogaster* negative geotaxis assays.
 
